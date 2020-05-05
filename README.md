@@ -6,7 +6,7 @@ Este es el proyecto inicial para crear aplicaciones utilizando webpack.
 Recuerden reconstruir los módulos de NodeJS:
 
 ```
-    npm isntall
+    npm install
 ```
 
 Y para construir el build, recuerden ejecutar el comando:
